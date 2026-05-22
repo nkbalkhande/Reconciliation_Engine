@@ -1,0 +1,28 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments and Virtual Envs
+.env
+.venv
+env/
+venv/
+__pypackages__/
+
+# Packaging/Build
+dist/
+build/
+*.egg-info/
+
+# IDE/Editor settings
+.idea/
+.vscode/
+
+# Testing and Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local database
+*.sqlite3
